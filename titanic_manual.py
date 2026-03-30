@@ -1,7 +1,5 @@
 import pandas as pd
 
-# directly reads from internet!
-
 
 
 df.to_csv("titanic.csv", index=False)
